@@ -110,12 +110,12 @@ const speakerObj = {
           'Assistant Professor, IIT Hyderabad', 
           'Assistant Professor, IIT Ropar', 
           'Professor, Jadavpur University'],
-  description: ['Short Bio', 
+  description: ['Ben works as a Research Engineer at the Ben T. Zinn Combustion Lab at Georgia Tech. Ben’s research portfolio includes projects on combustion instabilities, alternative fuels, and combustion system R&D with a core focus and motivation of cleaner combustion.', 
                 'Short Bio',
-                'Short Bio', 
-                'Short Bio', 
-                'Short Bio', 
-                'Short Bio'],
+                'Claire worked on aeroacoustics during her stay in ETH Zurich as a doctoral condidate and a postdoctoral researcher. She currently works as a Senior Scientist in Piezosensors Research Unit at Silicon Austria Labs.', 
+                'Vishnu is currently an Assistant Professor in the Department of Mechanical and Aerospace Engineering at IIT Hyderabad. ', 
+                'Lipika is currently an Assistant Professor in the Department of Mechanical Engineering at IIT Ropar, where she heads the Combustor Dynamics and Controls (CDC) Lab to address technical challenges limiting the gas turbine combustor technology employed in contemporary power and propulsion engines.', 
+                'Achintya is currently a Professor in the Department of Mechanical Engineering at Jadavpur University. His teaching and research interests include thermodynamics, heat transfer, combustion, multiphase flows and design and analysis of thermal systems. '],
 };
 
 window.onload = function getData() {
