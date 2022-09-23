@@ -31,7 +31,7 @@ html {
 
 /* ---------------Main Section--------------- */
 .bgContainer {
-  background-image: url(./assets/main_page_background21.png);
+  background-image: url(./assets/main_page_background31.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -448,7 +448,7 @@ nav {
 /* ---------------Media Query--------------- */
 @media (min-width: 768px) {
   .bgContainer {
-    background-image: url(./assets/main_page_background21.png);
+    background-image: url(./assets/main_page_background31.png);
     height: 100vh;
   }
 
