@@ -307,21 +307,20 @@ nav {
   color: var(--color-black);
   margin-top: auto;
   margin-bottom: 0.25rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .profile h3 {
   color: var(--color-red);
   margin-top: auto;
-  font-style: italic;
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 400;
 }
 
 .profile p {
   text-align: left;
-  font-size: 0.6rem;
-  line-height: 0.8rem;
+  font-size: 0.8rem;
+  line-height: 1rem;
 }
 
 /* ---------------More Section--------------- */
