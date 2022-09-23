@@ -448,7 +448,7 @@ nav {
 /* ---------------Media Query--------------- */
 @media (min-width: 768px) {
   .bgContainer {
-    background-image: url(./assets/main_page_background1.jpg);
+    background-image: url(./assets/main_page_background21.png);
     height: 100vh;
   }
 
